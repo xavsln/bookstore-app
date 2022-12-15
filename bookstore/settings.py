@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY','django-insecure-ml49cp(e)=yakpe
 DEBUG = False
 
 ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['serene-island-84344.herokuapp.com']
 
 # Application definition
 
